@@ -1,9 +1,9 @@
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:easy_audio_trimmer/src/trim_viewer/trim_area_properties.dart';
-import 'package:easy_audio_trimmer/src/trim_viewer/trim_editor_properties.dart';
-import 'package:easy_audio_trimmer/src/trimmer.dart';
+import 'package:flut_trim/src/trim_viewer/trim_area_properties.dart';
+import 'package:flut_trim/src/trim_viewer/trim_editor_properties.dart';
+import 'package:flut_trim/src/trimmer.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';

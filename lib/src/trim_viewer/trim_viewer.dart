@@ -1,7 +1,7 @@
-import 'package:easy_audio_trimmer/src/trim_viewer/fixed_viewer/fixed_trim_viewer.dart';
-import 'package:easy_audio_trimmer/src/trim_viewer/trim_area_properties.dart';
-import 'package:easy_audio_trimmer/src/trimmer.dart';
-import 'package:easy_audio_trimmer/src/utils/duration_style.dart';
+import 'package:flut_trim/src/trim_viewer/fixed_viewer/fixed_trim_viewer.dart';
+import 'package:flut_trim/src/trim_viewer/trim_area_properties.dart';
+import 'package:flut_trim/src/trimmer.dart';
+import 'package:flut_trim/src/utils/duration_style.dart';
 import 'package:flutter/material.dart';
 
 import 'trim_editor_properties.dart';

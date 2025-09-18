@@ -1,7 +1,7 @@
-name: easy_audio_trimmer
+name: flut_trim
 description: A Flutter package for trimming audio. This supports retrieving, trimming, and storage of trimmed audio files to the file system.
-version: 1.0.2+4
-homepage: https://github.com/mayurpitroda96/easy_audio_trimmer
+version: 1.0.0+1
+homepage: https://github.com/khsuzan/flut_trim
 
 environment:
   sdk: ">=2.18.4 <4.0.0"
@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   audioplayers: ^5.2.0
-  ffmpeg_kit_flutter: ^6.0.3
+  ffmpeg_kit_flutter_new: ^3.2.0
   intl: ^0.18.1
   path: ^1.8.2
   path_provider: ^2.0.11
